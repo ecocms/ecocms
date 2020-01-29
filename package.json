@@ -1,0 +1,22 @@
+{
+  "name": "ecocms",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecocms/ecocms.git"
+  },
+  "keywords": [
+    "cms"
+  ],
+  "author": "Rahul Mukherjee",
+  "license": "Apache License",
+  "bugs": {
+    "url": "https://github.com/ecocms/ecocms/issues"
+  },
+  "homepage": "https://github.com/ecocms/ecocms#readme"
+}
